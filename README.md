@@ -6,7 +6,9 @@ A Jupyter notebook demonstrating TabPFN for time series regression compared to X
 
 This project explores the application of **TabPFN** (Tabular Prior-Data Fitted Network) for time series forecasting in a Jupyter notebook environment. We compare TabPFN's zero-shot learning capabilities against traditional XGBoost for predicting housing starts with built-in uncertainty quantification.
 
-![Housing Starts Forecast](housing_forecast_plot.png)
+<img width="688" height="390" alt="image" src="https://github.com/user-attachments/assets/1d390036-a092-49cc-a33a-5fc6ef73734a" />
+
+
 *TabPFN provides uncertainty intervals while XGBoost gives point forecasts only*
 
 ## Key Features
